@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9d23c268809b4c",
+        "id": "94268f964ff8a933",
         "type": "tabs",
         "children": [
           {
-            "id": "bf3dc1f5d9536861",
+            "id": "0e71150bc3ba4f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待归档/中国中央.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02eac234801039b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/赔我啥.md",
+                "file": "【本周更新】/房产投资.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +31,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 36.34285714285714,
+        "dimension": 22.857142857142858,
         "children": [
           {
             "id": "7569597966c86526",
@@ -51,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "如果是你主动提出帮助",
-                "matchingCase": true,
+                "query": "等的意思在实践上有两条",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,7 +61,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 63.65714285714286,
+        "dimension": 77.14285714285715,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -81,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
@@ -89,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 345.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待归档/中国中央.md",
+                "file": "【本周更新】/房产投资.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -142,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,44 +143,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bf3dc1f5d9536861",
+  "active": "0e71150bc3ba4f93",
   "lastOpenFiles": [
-    "待归档/一而再再而三.md",
-    "待归档/gap.md",
-    "待归档/自来水上瘾.md",
-    "【本周更新】/出钱出力.md",
-    "【本周更新】/ai轻应用.md",
-    "【本周更新】/对美国绝望.md",
-    "【本周更新】/符力.md",
-    "【本周更新】/赌神.md",
-    "md_n5DnLW/2023-11-13世上无谓的痛苦，因为你们会有机会更少一….md",
-    "md_n5DnLW/2023-11-09有哪些事是谈过多次恋爱才明白的?.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/赔我啥.md",
-    "md_n5DnLW/2023-11-09哈马斯领导为何不学像法塔赫一样投降去挽救加沙平民呢？.md",
-    "待归档/归去.md",
-    "【本周更新】/缺养.md",
-    "【本周更新】/惊奇队长2.md",
-    "【本周更新】/博.md",
-    "【本周更新】/耿耿.md",
-    "【本周更新】/上慰中慰与少慰.md",
-    "【本周更新】/同意无效.md",
-    "【本周更新】/知足常胜.md",
-    "【本周更新】/程门雪.md",
-    "【本周更新】/左南右北.md",
-    "【本周更新】/慧极型必伤.md",
-    "【本周更新】/家祭无忘告乃翁.md",
-    "【文章目录】/【3 - 自然科学】/390 - 人类学/厌倦.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/195 - 社会伦理/计较.md",
-    "Nell",
-    "10.16/新增",
-    "10.16/修订",
-    "10.16",
-    "10.2/新增",
-    "10.2/修订",
-    "10.2",
-    "9.25/修订",
-    "9.25",
-    "【本周更新】/新增",
+    "【本周更新】/公平标准.md",
+    "【本周更新】/房产投资.md",
+    "【本周更新】/汪小姐的招商会.md",
+    "【本周更新】/日本女性之难.md",
+    "【本周更新】/人生意义.md",
+    "【本周更新】/繁花.md",
+    "【本周更新】/自救.md",
+    "【本周更新】/事实第一.md",
+    "【本周更新】/标准翻译.md",
+    "【本周更新】/锁门.md",
+    "【本周更新】/斜率.md",
+    "【本周更新】/穴居人.md",
+    "【本周更新】/红毯先生.md",
+    "【本周更新】/忠诚的卧底.md",
+    "【本周更新】/荣宝斋.md",
+    "【本周更新】/王家的秘密.md",
+    "【本周更新】/多语种剧情.md",
+    "【本周更新】/射杀.md",
+    "【本周更新】/最佳回应.md",
+    "【本周更新】/我不问，你不说.md",
+    "【本周更新】/老法师.md",
+    "【本周更新】/张记包子.md",
+    "【本周更新】/天平.md",
+    "【本周更新】/打断腿.md",
+    "待归档/经纪人.md",
+    "2024-02-10分手了还有必要继续联系吗？.md",
+    "www.zhihu.com/question/634890549/answer",
+    "www.zhihu.com/question/634890549",
+    "www.zhihu.com/question",
+    "www.zhihu.com",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/OpenAI",
+    "Sth-Matters/【文章目录】/【0 - 总类】/000 - 特藏 - 致读者",
+    "Sth-Matters/【文章目录】/【0 - 总类】",
+    "Sth-Matters/【文章目录】",
+    "Sth-Matters",
+    "Sth-Matters/【文章目录】/【1 - 哲学类】/100 - 哲学总论/论哲学",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
